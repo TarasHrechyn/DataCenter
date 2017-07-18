@@ -1,4 +1,4 @@
-echo off
+echo on
 echo dana test
 dir
 cd t:
