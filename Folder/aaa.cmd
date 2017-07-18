@@ -1,4 +1,4 @@
 echo off
 echo dana test
-dir
+dir c:\
 echo dir completed
